@@ -72,3 +72,4 @@ C:\react\.net\therapy backend\Reactivities\API\bin\Debug\net7.0\Humanizer.dll
 C:\react\.net\therapy backend\Reactivities\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\react\.net\therapy backend\Reactivities\API\bin\Debug\net7.0\Mono.TextTemplating.dll
 C:\react\.net\therapy backend\Reactivities\API\bin\Debug\net7.0\System.CodeDom.dll
+C:\react\.net\therapy backend\Reactivities\API\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so

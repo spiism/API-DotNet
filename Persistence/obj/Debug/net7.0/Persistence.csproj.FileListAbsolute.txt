@@ -1,15 +1,5 @@
-C:\react\.net\therapy backend\Reactivities\Persistence\bin\Debug\net7.0\Persistence.deps.json
-C:\react\.net\therapy backend\Reactivities\Persistence\bin\Debug\net7.0\Persistence.dll
-C:\react\.net\therapy backend\Reactivities\Persistence\bin\Debug\net7.0\Persistence.pdb
-C:\react\.net\therapy backend\Reactivities\Persistence\bin\Debug\net7.0\Domain.dll
-C:\react\.net\therapy backend\Reactivities\Persistence\bin\Debug\net7.0\Domain.pdb
 C:\react\.net\therapy backend\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.AssemblyReference.cache
 C:\react\.net\therapy backend\Reactivities\Persistence\obj\Debug\net7.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
 C:\react\.net\therapy backend\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfoInputs.cache
 C:\react\.net\therapy backend\Reactivities\Persistence\obj\Debug\net7.0\Persistence.AssemblyInfo.cs
 C:\react\.net\therapy backend\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CoreCompileInputs.cache
-C:\react\.net\therapy backend\Reactivities\Persistence\obj\Debug\net7.0\Persistence.csproj.CopyComplete
-C:\react\.net\therapy backend\Reactivities\Persistence\obj\Debug\net7.0\Persistence.dll
-C:\react\.net\therapy backend\Reactivities\Persistence\obj\Debug\net7.0\refint\Persistence.dll
-C:\react\.net\therapy backend\Reactivities\Persistence\obj\Debug\net7.0\Persistence.pdb
-C:\react\.net\therapy backend\Reactivities\Persistence\obj\Debug\net7.0\ref\Persistence.dll

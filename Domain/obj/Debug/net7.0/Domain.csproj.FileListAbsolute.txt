@@ -1,0 +1,11 @@
+C:\react\.net\therapy backend\Reactivities\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\react\.net\therapy backend\Reactivities\Domain\bin\Debug\net7.0\Domain.dll
+C:\react\.net\therapy backend\Reactivities\Domain\bin\Debug\net7.0\Domain.pdb
+C:\react\.net\therapy backend\Reactivities\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\react\.net\therapy backend\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\react\.net\therapy backend\Reactivities\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\react\.net\therapy backend\Reactivities\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\react\.net\therapy backend\Reactivities\Domain\obj\Debug\net7.0\Domain.dll
+C:\react\.net\therapy backend\Reactivities\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\react\.net\therapy backend\Reactivities\Domain\obj\Debug\net7.0\Domain.pdb
+C:\react\.net\therapy backend\Reactivities\Domain\obj\Debug\net7.0\ref\Domain.dll
